@@ -9,3 +9,6 @@ So we intend to modify the chatbot to learn about health & fitness
 * [NTLK](https://pypi.org/project/nltk/)
 * [Numpy](https://numpy.org/)
 * [Sklearn](https://scikit-learn.org/stable/)
+
+# Project Preview
+<img src="preview/preview.gif" width = 1000>
